@@ -8,7 +8,7 @@ inputs:
   options: "ruby,bash"
   isRequired: true
   title: Execute with
-  description: Script to execute with. For example bash or ruby.
+  description: "Script to execute with. For example bash or ruby."
   helpText: 
 - key: "Script"
   editorType: textarea
