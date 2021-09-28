@@ -10,6 +10,7 @@ inputs:
   title: Execute with
   description: "Script to execute with. For example bash or ruby."
   helpText: 
+  defaultValue: bash
 - key: "Script"
   editorType: textarea
   isRequired: false
